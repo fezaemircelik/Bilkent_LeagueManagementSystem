@@ -1,0 +1,49 @@
+Teams in the league management system:
+None
+
+Added team Fenerbahce.
+Added team Tofas.
+Added team Anadolu Efes.
+Removed team Tofas.
+Added team Darussafaka.
+Cannot add team. Team Fenerbahce already exists.
+Cannot remove team. Team Tofas does not exist.
+
+Added player Melih Mahmutoglu to team Fenerbahce.
+Added player Sehmus Hazer to team Fenerbahce.
+Added player Ercan Osmani to team Darussafaka.
+Added player Dogus Balbay to team Anadolu Efes.
+Added player Bugrahan Tuncer to team Anadolu Efes.
+Removed player Ercan Osmani from team Darussafaka.
+
+Cannot add player. Jersey number 10 already exists in team Fenerbahce
+Cannot add player. Team Karsiyaka does not exist.
+Added team Karsiyaka.
+Added player Metecan Birsen to team Karsiyaka.
+Cannot remove player. Team Tofas does not exist.
+Cannot remove player. Player Bugrahan Tuncer does not exist
+Transferred player Metecan Birsen from team Karsiyaka to team Fenerbahce.
+Cannot transfer player. Team Los Angeles Lakers does not exist.
+Cannot transfer player. Player Michael Jordan does not exist.
+Cannot transfer player. Jersey number 10 already exists in team Fenerbahce.
+
+Teams in the league management system:
+Fenerbahce, 1907, 3 players, 4000000 TL total salary
+Anadolu Efes, 1951, 2 players, 2500000 TL total salary
+Darussafaka, 1951, 0 players, 0 TL total salary
+Karsiyaka, 1912, 0 players, 0 TL total salary
+
+Team:
+Fenerbahce, 1907, 3 players, 4000000 TL total salary
+Players:
+Melih Mahmutoglu, jersey 10, 2000000 TL salary
+Sehmus Hazer, jersey 2, 1000000 TL salary
+Metecan Birsen, jersey 1, 1000000 TL salary
+
+Team Boston Celtics does not exist.
+
+Player:
+Melih Mahmutoglu, jersey 10, 2000000 TL salary
+Plays in team Fenerbahce.
+
+Player Furkan Korkmaz does not exist.

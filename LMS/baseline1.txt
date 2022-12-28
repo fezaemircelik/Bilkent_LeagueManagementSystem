@@ -1,0 +1,20 @@
+Added team t1.
+Added team t2.
+Teams in the league management system:
+t1, 11, 0 players, 0 TL total salary
+t2, 12, 0 players, 0 TL total salary
+
+Removed team t2.
+Added player p1 to team t1.
+Added player p2 to team t1.
+Team:
+t1, 11, 2 players, 3 TL total salary
+Players:
+p1, jersey 1, 1 TL salary
+p2, jersey 2, 2 TL salary
+
+Removed player p2 from team t1.
+Team:
+t1, 11, 1 players, 1 TL total salary
+Players:
+p1, jersey 1, 1 TL salary

@@ -1,0 +1,131 @@
+Added team t1.
+Added team t2.
+Added player p1 to team t1.
+Transferred player p1 from team t1 to team t2.
+Teams in the league management system:
+t1, 11, 0 players, 0 TL total salary
+t2, 12, 1 players, 1 TL total salary
+Player:
+p1, jersey 1, 1 TL salary
+Plays in team t2.
+Team:
+t2, 12, 1 players, 1 TL total salary
+Players:
+p1, jersey 1, 1 TL salary
+Cannot remove player. Player p1 does not exist
+Cannot add player. Jersey number 1 already exists in team t2
+Removed team t1.
+Removed team t2.
+
+Added team t1.
+Added team t2.
+Added player p1 to team t1.
+Added player p2 to team t1.
+Added player p3 to team t1.
+Transferred player p1 from team t1 to team t2.
+Transferred player p2 from team t1 to team t2.
+Transferred player p3 from team t1 to team t2.
+Cannot remove player. Player p1 does not exist
+Cannot remove player. Player p2 does not exist
+Cannot remove player. Player p3 does not exist
+Added player p11 to team t1.
+Added player p12 to team t1.
+Added player p13 to team t1.
+Cannot add player. Jersey number 1 already exists in team t2
+Cannot add player. Jersey number 2 already exists in team t2
+Cannot add player. Jersey number 3 already exists in team t2
+Teams in the league management system:
+t1, 11, 3 players, 6 TL total salary
+t2, 12, 3 players, 6 TL total salary
+Player:
+p1, jersey 1, 1 TL salary
+Plays in team t2.
+Player:
+p2, jersey 2, 2 TL salary
+Plays in team t2.
+Player:
+p3, jersey 3, 3 TL salary
+Plays in team t2.
+Team:
+t1, 11, 3 players, 6 TL total salary
+Players:
+p11, jersey 1, 1 TL salary
+p12, jersey 2, 2 TL salary
+p13, jersey 3, 3 TL salary
+Team:
+t2, 12, 3 players, 6 TL total salary
+Players:
+p1, jersey 1, 1 TL salary
+p2, jersey 2, 2 TL salary
+p3, jersey 3, 3 TL salary
+Removed team t1.
+Removed team t2.
+
+Added team t1.
+Added team t2.
+Added team t3.
+Added player p1 to team t1.
+Added player p2 to team t1.
+Added player p3 to team t2.
+Added player p4 to team t3.
+Transferred player p1 from team t1 to team t2.
+Player:
+p1, jersey 1, 1 TL salary
+Plays in team t2.
+Transferred player p1 from team t2 to team t3.
+Player:
+p1, jersey 1, 1 TL salary
+Plays in team t3.
+Transferred player p1 from team t3 to team t1.
+Player:
+p1, jersey 1, 1 TL salary
+Plays in team t1.
+Teams in the league management system:
+t1, 11, 2 players, 2 TL total salary
+t2, 12, 1 players, 1 TL total salary
+t3, 13, 1 players, 1 TL total salary
+Removed team t1.
+Removed team t2.
+Removed team t3.
+
+Added team t1.
+Added team t2.
+Added player p1 to team t1.
+Added player p2 to team t2.
+Cannot transfer player. Jersey number 1 already exists in team t2.
+Player:
+p1, jersey 1, 1 TL salary
+Plays in team t1.
+Removed player p2 from team t2.
+Transferred player p1 from team t1 to team t2.
+Player:
+p1, jersey 1, 1 TL salary
+Plays in team t2.
+Cannot add player. Jersey number 1 already exists in team t2
+Removed player p1 from team t2.
+Added player p3 to team t2.
+Player p1 does not exist.
+Player p2 does not exist.
+Player:
+p3, jersey 1, 1 TL salary
+Plays in team t2.
+Removed team t1.
+Removed team t2.
+Cannot remove team. Team t3 does not exist.
+
+Added team t1.
+Added team t2.
+Added player p1 to team t1.
+Removed team t1.
+Cannot transfer player. Team t1 does not exist.
+Added team t1.
+Added player p1 to team t1.
+Transferred player p1 from team t1 to team t2.
+
+Cannot add team. Team t1 already exists.
+Cannot add team. Team t2 already exists.
+Added player p1 to team t1.
+Removed team t2.
+Cannot transfer player. Team t2 does not exist.
+Added team t2.
+Transferred player p1 from team t1 to team t2.
